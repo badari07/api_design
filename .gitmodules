@@ -7,3 +7,6 @@
 [submodule "lesson-3"]
 	path = lesson-3
 	url = https://github.com/badari07/api_lesson_3
+[submodule "lesson-4"]
+	path = lesson-4
+	url = https://github.com/badari07/api_lesson_4
